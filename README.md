@@ -34,11 +34,11 @@ In this analysis, we explore web scraping and the various tools used to extract 
 
 
 ### Full-Resolution Mars Hemisphere Images and Titles
-![Mars_Hemispheres](mars_hemispheres.png)
+![Mars_Hemispheres](images/mars_hemispheres.png)
 
 ### Mars Hemispheres Images as Thumbnails
 ##### When the thumbnail images are clicked they become full resolution images
-![Mars_Hemispheres_Thumbnails](mars_hemispheres_thumbnails.png)
+![Mars_Hemispheres_Thumbnails](images/mars_hemispheres_thumbnails.png)
 
 ### Mobile Responsive Web App
-![Mobile_Responsive_Web_App](mobile_responsive_web_app.png)
+![Mobile_Responsive_Web_App](images/mobile_responsive_web_app.png)
